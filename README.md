@@ -19,6 +19,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+
+
 - 👋 Hi, I’m Javad Mahdioun
 - 👀 I am interested in java and all the world around it.
 - 🌱 I’m currently learning java SE & EE
