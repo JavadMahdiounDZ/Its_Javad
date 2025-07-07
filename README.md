@@ -27,18 +27,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF7&center=true&vCenter=true&width=600&height=80&lines=Senior+Java+Backend+Architect;Spring+Boot+Specialist;Cloud-Native+Developer;System+Design+Mentor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF7&center=true&vCenter=true&width=600&height=80&lines=Java+Backend+Architect;Spring+Boot+Specialist;Cloud-Native+Developer;System+Design+Mentor" alt="Typing Animation" />
 </p>
 
-<div align="center">
-  <!-- Animated developer illustration -->
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="400"/>
   
-  <!-- Profile counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
-
----
-
-### 👨‍💻 **Developer Profile**
 
