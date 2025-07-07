@@ -24,12 +24,36 @@
 ---
 
 ### 🛠️ Tech Stack
+--------------------------------------
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF7&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+👋;I'm+Javad+Mahdioun;Senior+Java+Backend+Engineer;System+Design+Enthusiast;Clean+Code+Advocate" alt="Animated Typing Intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" alt="Profile View Counter"/> 
+  • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social"> 
+  •
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+</p>
+
+---
+
+### 🚀 **About Me**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1eGJ4eGJ1c3B2aGx2d2Z5Z3B3bW5zN3Z2bG9jZ3N6eW5zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
 
 ```java
-// My daily tools
-public class TechStack {
-    String languages = "Java, Kotlin, Python";
-    String frameworks = "Spring Boot, Quarkus";
-    String databases = "PostgreSQL, MongoDB, Redis";
-    String devOps = "Docker, Kubernetes, AWS";
+public class JavadMahdioun {
+    String role = "Senior Backend Engineer";
+    String[] skills = {"Java", "Spring Boot", "Microservices", "Cloud Architecture"};
+    String location = "Iran (Open to Remote)";
+    String[] passions = {"System Design", "Mentoring", "Open Source"};
+    
+    void currentFocus() {
+        System.out.println("Building event-driven architectures with Kafka");
+    }
 }
