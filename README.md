@@ -7,25 +7,19 @@
 ---
 
 #### 🔧 Technical Profile
-- 💻 **Core Skills**: Java 11+, Spring Boot, Hibernate, Microservices, REST APIs, SQL/NoSQL
-- ☁️ **Cloud**: AWS (EC2, S3, Lambda), Docker, Kubernetes
+- 💻 **Core Skills**: Java 8+, Spring Boot, Hibernate, Microservices, REST APIs, SQL/NoSQL
+- ☁️ **Cloud**: Docker, Kubernetes
 - 🛠️ **DevOps**: CI/CD (Jenkins, GitHub Actions), Terraform, Monitoring (Prometheus, Grafana)
 - 🏗️ **Architecture**: Event-Driven Design, DDD, CQRS, Distributed Systems
 
 #### 🏢 Professional Journey
-- 📌 Currently: **Backend Tech Lead** @Company (if applicable)
+- 📌 Currently: **Java & Spring Boot Backend Developer**
 - 🚀 5+ years building high-traffic web applications
-- 🔗 Previously: Senior Java Developer @PreviousCompany
 
 #### 🌱 Current Focus
 - Mastering **Kafka & Event Sourcing Patterns**
 - Evolving into **Solutions Architecture**
 - Contributing to **Open-Source Java Projects**
-
-#### ✍️ Thought Leadership
-- 📝 [Medium/Tech Blog Articles](#) (link if available)
-- 🎤 Local Tech Meetup Speaker (mention if applicable)
-- 🏆 GeeksforGeeks "Top Contributor" (add if accurate)
 
 ---
 
