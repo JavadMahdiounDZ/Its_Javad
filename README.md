@@ -5,7 +5,7 @@ I'm a **Java Backend Developer** <img src="https://media.giphy.com/media/WUlplcM
 - 🔭 Currently working as a **Software Engineer**, specializing in backend development
 - 🌱 Constantly learning about **System Design, Microservices & Cloud Technologies**
 - ✍️ Interested in **Technical Writing** and sharing knowledge
-- 💡 Enjoy solving problems on [GeeksforGeeks](https://www.geeksforgeeks.org/) and [LeetCode](https://leetcode.com/)
+- 💡 Enjoy solving problems on [LeetCode](https://leetcode.com/)
 - 📚 Love reading tech articles about software architecture and best practices
 - 🌍 Based in **Iran**, open to remote opportunities
 
