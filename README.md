@@ -1,20 +1,41 @@
+### 🚀 Senior Java Backend Engineer | System Design Specialist | Clean Code Advocate
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+backend+systems;Microservices+Architecture;Spring+Boot+Expert;Cloud-Native+Solutions" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
+---
 
-I'm a **Java Backend Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with passion for building robust web applications.
+#### 🔧 Technical Profile
+- 💻 **Core Skills**: Java 11+, Spring Boot, Hibernate, Microservices, REST APIs, SQL/NoSQL
+- ☁️ **Cloud**: AWS (EC2, S3, Lambda), Docker, Kubernetes
+- 🛠️ **DevOps**: CI/CD (Jenkins, GitHub Actions), Terraform, Monitoring (Prometheus, Grafana)
+- 🏗️ **Architecture**: Event-Driven Design, DDD, CQRS, Distributed Systems
 
-- 🔭 Currently working as a **Software Engineer**, specializing in backend development
-- 🌱 Constantly learning about **System Design, Microservices & Cloud Technologies**
-- ✍️ Interested in **Technical Writing** and sharing knowledge
-- 💡 Enjoy solving problems on [LeetCode](https://leetcode.com/)
-- 📚 Love reading tech articles about software architecture and best practices
-- 🌍 Based in **Iran**, open to remote opportunities
+#### 🏢 Professional Journey
+- 📌 Currently: **Backend Tech Lead** @Company (if applicable)
+- 🚀 5+ years building high-traffic web applications
+- 🔗 Previously: Senior Java Developer @PreviousCompany
 
-### 📫 How to reach me
+#### 🌱 Current Focus
+- Mastering **Kafka & Event Sourcing Patterns**
+- Evolving into **Solutions Architecture**
+- Contributing to **Open-Source Java Projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javad-mahdioun)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javad.mahdioun1986@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+#### ✍️ Thought Leadership
+- 📝 [Medium/Tech Blog Articles](#) (link if available)
+- 🎤 Local Tech Meetup Speaker (mention if applicable)
+- 🏆 GeeksforGeeks "Top Contributor" (add if accurate)
+
+---
+
+### 🛠️ Tech Stack
+
+```java
+// My daily tools
+public class TechStack {
+    String languages = "Java, Kotlin, Python";
+    String frameworks = "Spring Boot, Quarkus";
+    String databases = "PostgreSQL, MongoDB, Redis";
+    String devOps = "Docker, Kubernetes, AWS";
+}
