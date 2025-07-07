@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+backend+systems;Microservices+Architecture;Spring+Boot+Expert;Cloud-Native+Solutions" alt="Typing SVG" />
+</p>
+
 ### 👨‍💻 About Me
 
 I'm a **Java Backend Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with passion for building robust web applications.
